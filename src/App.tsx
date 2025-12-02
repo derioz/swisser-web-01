@@ -36,7 +36,7 @@ function App() {
   return (
     <Router basename={basename}>
       <ScrollToTop />
-      <div className="min-h-screen bg-cyber-dark">
+      <div className="min-h-screen bg-gta-vDarkGray">
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/terms" element={<TermsOfService />} />

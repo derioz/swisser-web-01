@@ -268,14 +268,22 @@
       "description": "Owner and lead developer"
     },
     {
-      "id": "jane-smith",
-      "name": "Jane Smith",
-      "role": "Head Admin",
+      "id": "soup",
+      "name": "Soup",
+      "role": "Server Owner",
       "avatar": "/images/team/avatar2.jpg",
       "discord": "janesmith",
-      "description": "Community management and support"
+      "description": "Owner"
     },
     {
+      "id": "grumpy",
+      "name": "grumpy",
+      "role": "Server Owner",
+      "avatar": "/images/team/avatar3.jpg",
+      "discord": "grumpyfinster",
+      "description": "Owner and developer"
+    },
+	{
       "id": "mike-wilson",
       "name": "Mike Wilson",
       "role": "Developer",
