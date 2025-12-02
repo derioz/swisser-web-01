@@ -1,8 +1,8 @@
 {
   "seo": {
-    "title": "NightCity Roleplay - Premium GTA V FiveM RP Server",
-    "shortTitle": "NightCity RP",
-    "description": "Join the most immersive GTA V FiveM roleplay server. Custom framework, active community, realistic economy, and endless roleplay possibilities. Apply for whitelist today!",
+    "title": "Vital RP – Serious GTA 5 FiveM Roleplay Server",
+    "shortTitle": "VitalRP",
+    "description": "Vital RP is a serious GTA 5 FiveM roleplay server with realistic city RP, active staff, and a balanced economy. Apply today!",
     "keywords": [
       "FiveM", 
       "GTA V", 
@@ -293,31 +293,31 @@
     }
   ],
   "api": {
-    "serverCode": "replaceme",
+    "serverCode": "ogpvmv",
     "cfxApiUrl": "https://servers-frontend.fivem.net/api/servers/single/",
     "refreshInterval": 30000,
     "_comment": "Get your serverCode from https://servers.fivem.net - search your server and copy the ID from URL"
   },
   "social": {
-    "discord": "https://discord.gg/nightcity",
-    "twitter": "https://twitter.com/nightcityrp",
-    "youtube": "https://youtube.com/@nightcityrp",
-    "tiktok": "https://tiktok.com/@nightcityrp",
-    "instagram": "https://instagram.com/nightcityrp",
-    "twitch": "https://twitch.tv/nightcityrp"
+    "discord": "https://discord.gg/vitalrp",
+    "twitter": "https://twitter.com/Vital_Roleplay",
+    "youtube": "https://www.youtube.com/@VitalRP",
+    "tiktok": "https://www.tiktok.com/@vitalroleplay_",
+    "instagram": "https://www.instagram.com/vital_roleplay/",
+    "twitch": "https://twitch.tv/vitalrp"
   },
   "whitelist": {
     "enabled": true,
-    "applicationUrl": "https://apply.nightcity-rp.com",
+    "applicationUrl": "https://discord.gg/vitalrp",
     "requirements": [
-      "Minimum age of 16 years",
+      "Minimum age of 18 years",
       "Working microphone",
       "Read and understand server rules",
       "Pass character backstory review"
     ]
   },
   "donations": {
-    "enabled": true,
+    "enabled": false,
     "currency": "USD",
     "packages": [
       {
