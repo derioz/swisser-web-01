@@ -54,7 +54,7 @@
     },
     "loadingTips": [
       "Remember to stay in character at all times",
-      "Press F1 to open the help menu",
+      "Report all major rule breaks",
       "Join our Discord for the latest updates",
       "Quality roleplay is always rewarded"
     ]
@@ -194,7 +194,15 @@
         "name": "Paramedic",
         "category": "emergency",
         "description": "Save lives and provide medical care",
-        "requirements": ["16+ years old", "Medical training", "Active player"],
+        "requirements": ["18+ years old", "Medical training", "Active player"],
+        "image": "/images/jobs/ems.jpg"
+      },
+      {
+        "id": "fire",
+        "name": "Fire Department",
+        "category": "emergency",
+        "description": "Save lives and put out fires",
+        "requirements": ["18+ years old", "Medical/Fire training", "Active player"],
         "image": "/images/jobs/ems.jpg"
       },
       {
@@ -206,11 +214,11 @@
         "image": "/images/jobs/mechanic.jpg"
       },
       {
-        "id": "taxi",
-        "name": "Taxi Driver",
+        "id": "mining",
+        "name": "Mining",
         "category": "civilian",
-        "description": "Transport citizens around the city",
-        "requirements": ["Valid license", "Clean driving record"],
+        "description": "Mine for metals, jewels and other things",
+        "requirements": ["No requirements", "Self taught"],
         "image": "/images/jobs/taxi.jpg"
       },
       {
@@ -284,20 +292,36 @@
       "description": "Owner and developer"
     },
 	{
-      "id": "mike-wilson",
-      "name": "Mike Wilson",
-      "role": "Developer",
+      "id": "daniel",
+      "name": "Daniel",
+      "role": "Head Administrator",
       "avatar": "/images/team/avatar3.jpg",
-      "discord": "mikewilson",
-      "description": "Backend systems and optimization"
+      "discord": "dan1els0n",
+      "description": "Head of staff"
     },
     {
-      "id": "sarah-jones",
-      "name": "Sarah Jones",
-      "role": "Moderator",
+      "id": "strix",
+      "name": "Strix",
+      "role": "Head Administrator",
       "avatar": "/images/team/avatar4.jpg",
-      "discord": "sarahjones",
-      "description": "Player support and moderation"
+      "discord": "iistriix",
+      "description": "Head of staff"
+    },
+    {
+      "id": "damon",
+      "name": "Damon",
+      "role": "Administrator",
+      "avatar": "/images/team/avatar4.jpg",
+      "discord": "mcspace",
+      "description": "Head of Support, whitelisting, & marketing"
+    },
+    {
+      "id": "beth",
+      "name": "Beth",
+      "role": "Administrator",
+      "avatar": "/images/team/avatar4.jpg",
+      "discord": "authenticbeth",
+      "description": "Head of Property Management"
     }
   ],
   "api": {
