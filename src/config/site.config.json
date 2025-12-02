@@ -271,7 +271,7 @@
       "id": "nez",
       "name": "Nez",
       "role": "Server Owner",
-      "avatar": "/images/team/avatar1.jpg",
+      "avatar": "/images/team/nez.jpg",
       "discord": "nnezzie",
       "description": "Owner and lead developer"
     },
@@ -279,7 +279,7 @@
       "id": "soup",
       "name": "Soup",
       "role": "Server Owner",
-      "avatar": "/images/team/avatar2.jpg",
+      "avatar": "/images/team/soup.jpg",
       "discord": "janesmith",
       "description": "Owner"
     },
@@ -287,7 +287,7 @@
       "id": "grumpy",
       "name": "grumpy",
       "role": "Server Owner",
-      "avatar": "/images/team/avatar3.jpg",
+      "avatar": "/images/team/grumpy.jpg",
       "discord": "grumpyfinster",
       "description": "Owner and developer"
     },
