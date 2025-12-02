@@ -21,10 +21,10 @@ export default {
           'salmon': '#F09E71',
           'purple': '#D5A0C4',
           'olive': '#488F21',
-		  'vYellow' : '#ffc93a',
-		  'vOrange' : '#ff8a1a',
-		  'vAccent' : '#ff6b35',
-		  'vDarkGray' : '#1b1b1b',
+		      'vYellow' : '#ffc93a',
+		      'vOrange' : '#ff8a1a',
+		      'vAccent' : '#ff6b35',
+		      'vDarkGray' : '#1b1b1b',
         }
       },
       fontFamily: {
