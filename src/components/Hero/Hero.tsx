@@ -193,7 +193,7 @@ export const Hero = () => {
             <div ref={characterRef} className="relative">
               <div className="aspect-[3/4] bg-gradient-to-br from-gta-dark to-gta-graphite rounded-lg overflow-hidden shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=600&h=800&fit=crop&q=80" 
+                  src="https://r2.fivemanage.com/image/JFp78MuvzCXF.png" 
                   alt="GTA Character" 
                   className="w-full h-full object-cover"
                 />
