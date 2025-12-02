@@ -16,21 +16,21 @@
     ],
     "ogImage": "/images/og-image.jpg",
     "twitterCard": "summary_large_image",
-    "twitterHandle": "@nightcityrp",
+    "twitterHandle": "@vital_roleplay",
     "favicon": "/favicon.ico",
     "themeColor": "#47761E",
     "locale": "en_US",
-    "url": "https://nightcity-rp.com"
+    "url": "http://vitalrp.com"
   },
   "legal": {
-    "companyName": "NightCity Roleplay",
-    "email": "contact@nightcity-rp.com",
-    "privacyEmail": "privacy@nightcity-rp.com",
-    "dpoEmail": "dpo@nightcity-rp.com",
-    "supportEmail": "support@nightcity-rp.com",
-    "lastUpdated": "2025-01-01",
-    "minAge": 16,
-    "copyrightYear": 2025,
+    "companyName": "VitalRP",
+    "email": "contact@vitalrp.com",
+    "privacyEmail": "privacy@vitalrp.com",
+    "dpoEmail": "dpo@vitalrp.com",
+    "supportEmail": "support@vitalrp.com",
+    "lastUpdated": "2025-12-02",
+    "minAge": 18,
+    "copyrightYear": 2026,
     "dataRetention": {
       "characterData": "6 months of inactivity",
       "chatLogs": "30 days",
@@ -40,13 +40,13 @@
     }
   },
   "server": {
-    "name": "NightCity Roleplay",
+    "name": "VitalRP",
     "tagline": "Where Stories Come Alive",
     "description": "Experience the most immersive GTA V roleplay server with custom features, active community, and endless possibilities.",
-    "ip": "play.nightcity-rp.com",
+    "ip": "https://cfx.re/join/ogpvmv",
     "port": "30120",
-    "discord": "https://discord.gg/nightcity",
-    "maxPlayers": 256,
+    "discord": "https://discord.gg/vitalrp",
+    "maxPlayers": 175,
     "logo": {
       "type": "text",
       "content": "RP",
@@ -260,12 +260,12 @@
   ],
   "team": [
     {
-      "id": "john-doe",
-      "name": "John Doe",
+      "id": "nez",
+      "name": "Nez",
       "role": "Server Owner",
       "avatar": "/images/team/avatar1.jpg",
-      "discord": "johndoe",
-      "description": "Founder and lead developer"
+      "discord": "nnezzie",
+      "description": "Owner and lead developer"
     },
     {
       "id": "jane-smith",
