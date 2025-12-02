@@ -15,7 +15,7 @@ export default {
           'medium': '#454b4f',
           'light': '#979a97',
           'white': '#ffffff',
-          'green': '#47761E',
+          'green': '#ff8a1a',
           'gold': '#FED985',
           'blue': '#61B5CB',
           'salmon': '#F09E71',
