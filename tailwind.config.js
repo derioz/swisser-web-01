@@ -16,7 +16,7 @@ export default {
           'light': '#979a97',
           'white': '#ffffff',
           'green': '#ff8a1a',
-          'gold': '#ffc93a',
+          'gold': '#ff6b35',
           'blue': '#61B5CB',
           'salmon': '#F09E71',
           'purple': '#D5A0C4',
