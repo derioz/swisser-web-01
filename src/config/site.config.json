@@ -170,11 +170,6 @@
         "color": "blue"
       },
       {
-        "id": "criminal",
-        "name": "Criminal",
-        "color": "purple"
-      },
-      {
         "id": "business",
         "name": "Business",
         "color": "green"
@@ -227,6 +222,14 @@
         "category": "civilian",
         "description": "Haul cargo across the state, deliver loads on time, and get paid based on distance, delivery condition, and contract difficulty",
         "requirements": ["No requirements", "Drivers license"],
+        "image": "/images/jobs/dealer.jpg"
+      },
+      {
+        "id": "hunting",
+        "name": "Hunting",
+        "category": "civilian",
+        "description": "Track, kill, and process wildlife for profit",
+        "requirements": ["No requirements", "Animal knowledge"],
         "image": "/images/jobs/dealer.jpg"
       },
       {
