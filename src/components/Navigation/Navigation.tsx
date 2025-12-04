@@ -181,6 +181,14 @@ const DesktopNavigation = () => {
               >
                 Discord
               </a>
+              <a 
+                href={`https://vitalrp.tebex.io/}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-6 py-2 text-sm font-inter font-medium uppercase tracking-wider border border-gta-gold text-gta-gold hover:bg-gta-gold hover:text-gta-black transition-all duration-300"
+              >
+                Store
+              </a>
             </div>
 
           </div>
