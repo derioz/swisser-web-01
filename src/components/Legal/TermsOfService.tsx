@@ -83,14 +83,14 @@ export const TermsOfService = () => {
                 <h3 className="text-xl font-bebas text-gta-gold">Age Requirements</h3>
                 <ul className="list-disc list-inside space-y-2 ml-4">
                   <li>You must be at least {siteConfig.legal.minAge} years old to play on our server</li>
-                  <li>Players under 18 require parental consent</li>
+                  <li>Players under 18 are forbidden from this server</li>
                   <li>Age verification may be required for whitelist applications</li>
                 </ul>
 
                 <h3 className="text-xl font-bebas text-gta-gold mt-6">Whitelist System</h3>
                 <ul className="list-disc list-inside space-y-2 ml-4">
                   <li>All players must pass our whitelist application</li>
-                  <li>Applications are reviewed within 48-72 hours</li>
+                  <li>Applications are reviewed within 24-48 hours</li>
                   <li>False information will result in permanent ban</li>
                   <li>Whitelist status is non-transferable</li>
                 </ul>

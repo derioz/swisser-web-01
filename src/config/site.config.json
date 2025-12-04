@@ -295,7 +295,7 @@
       "id": "daniel",
       "name": "Daniel",
       "role": "Head Administrator",
-      "avatar": "/images/team/avatar3.jpg",
+      "avatar": "/images/team/dan.png",
       "discord": "dan1els0n",
       "description": "Head of staff"
     },
@@ -303,7 +303,7 @@
       "id": "strix",
       "name": "Strix",
       "role": "Head Administrator",
-      "avatar": "/images/team/avatar4.jpg",
+      "avatar": "/images/team/strix.png",
       "discord": "iistriix",
       "description": "Head of staff"
     },
@@ -311,7 +311,7 @@
       "id": "damon",
       "name": "Damon",
       "role": "Administrator",
-      "avatar": "/images/team/avatar4.jpg",
+      "avatar": "/images/team/damon.png",
       "discord": "mcspace",
       "description": "Head of Support, whitelisting, & marketing"
     },
