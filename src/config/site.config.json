@@ -67,15 +67,15 @@
       "icon": "Code2"
     },
     {
-      "id": "voice-chat",
-      "title": "Advanced Voice Chat",
-      "description": "Crystal clear proximity voice with radio systems",
-      "icon": "Mic"
+      "id": "criminal-turf",
+      "title": "Custom Criminal Turf System",
+      "description": "Custom made criminal turf system",
+      "icon": "SquareDashedBottom"
     },
     {
       "id": "economy",
       "title": "Dynamic Economy",
-      "description": "Player-driven market with realistic pricing",
+      "description": "Player-driven economy",
       "icon": "DollarSign"
     },
     {
