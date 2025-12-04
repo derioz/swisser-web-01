@@ -75,7 +75,7 @@ export const Rules = () => {
             Server Rules
           </h2>
           <p className="text-xl text-gta-light max-w-2xl mx-auto">
-            Follow these guidelines for the best roleplay experience
+            Follow these guidelines for the best roleplay experience. Full rulebook is available in our Discord
           </p>
         </div>
 
