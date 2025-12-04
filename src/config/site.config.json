@@ -233,19 +233,19 @@
         "image": "/images/jobs/dealer.jpg"
       },
       {
-        "id": "hunting",
-        "name": "Hunting",
+        "id": "fishing",
+        "name": "Fishing",
         "category": "civilian",
-        "description": "Track, kill, and process wildlife for profit",
-        "requirements": ["No requirements", "Animal knowledge"],
+        "description": "Buy or rent a boat and rod, head out to designated fishing spots, and catch different species of fish with varying rarity and payout",
+        "requirements": ["No requirements", "Fishing pole"],
         "image": "/images/jobs/dealer.jpg"
       },
       {
-        "id": "lawyer",
-        "name": "Lawyer",
+        "id": "damonsglizzys",
+        "name": "Damon's Glizzy's",
         "category": "business",
-        "description": "Represent clients in legal matters",
-        "requirements": ["Bar exam", "Good standing"],
+        "description": "Work at a hot dog restaurant selling hot dogs",
+        "requirements": ["Get hired", "Sell hot dog"],
         "image": "/images/jobs/lawyer.jpg"
       }
     ]
