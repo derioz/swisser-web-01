@@ -247,6 +247,30 @@
         "description": "Work at a hot dog restaurant selling hot dogs",
         "requirements": ["Get hired", "Sell hot dog"],
         "image": "/images/jobs/lawyer.jpg"
+      },
+      {
+        "id": "bethscream",
+        "name": "Beth's Cream",
+        "category": "business",
+        "description": "My milkshake brings all the boys to the yard",
+        "requirements": ["Be sexy", "Good with hands and mouth"],
+        "image": "/images/jobs/lawyer.jpg"
+      },
+      {
+        "id": "uwu",
+        "name": "UwU Cat Cafe",
+        "category": "business",
+        "description": "A cozy cutsie kitty corner",
+        "requirements": ["Like cats, not cat allergies", "Be a Pawsitive person"],
+        "image": "/images/jobs/lawyer.jpg"
+      },
+      {
+        "id": "dreamworks",
+        "name": "Dreamworks",
+        "category": "business",
+        "description": "Lonest standing mechanic shop",
+        "requirements": ["Dedicate time", "Car knowledge"],
+        "image": "/images/jobs/lawyer.jpg"
       }
     ]
   },
