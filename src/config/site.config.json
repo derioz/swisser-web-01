@@ -284,7 +284,7 @@
       "role": "Server Owner",
       "avatar": "/images/team/grumpy.jpg",
       "discord": "grumpyfinster",
-      "description": "Owner and developer"
+      "description": "Owner and Developer"
     },
     {
       "id": "nez",
@@ -292,14 +292,14 @@
       "role": "Server Owner",
       "avatar": "/images/team/nez.jpg",
       "discord": "nnezzie",
-      "description": "Owner and lead developer"
+      "description": "Owner and Lead Developer"
     },
     {
       "id": "soup",
       "name": "Soup",
       "role": "Server Owner",
       "avatar": "/images/team/soup.jpg",
-      "discord": "janesmith",
+      "discord": "soup.lua",
       "description": "Owner"
     },
 	  {
@@ -308,7 +308,7 @@
       "role": "Head Administrator",
       "avatar": "/images/team/dan.png",
       "discord": "dan1els0n",
-      "description": "Head of staff"
+      "description": "Head of Staff"
     },
     {
       "id": "strix",
@@ -316,7 +316,7 @@
       "role": "Head Administrator",
       "avatar": "/images/team/strix.png",
       "discord": "iistriix",
-      "description": "Head of staff"
+      "description": "Head of Staff"
     },
     {
       "id": "damon",
@@ -324,7 +324,7 @@
       "role": "Administrator",
       "avatar": "/images/team/damon.png",
       "discord": "mcspace",
-      "description": "Head of Support, whitelisting, & marketing"
+      "description": "Head of Support, Whitelisting, & Marketing"
     },
     {
       "id": "rue",
@@ -332,11 +332,11 @@
       "role": "Administrator",
       "avatar": "/images/team/rue.png",
       "discord": "ruekatu",
-      "description": "Head of rules"
+      "description": "Head of Rules"
     },
     {
       "id": "gtsdeathclutch",
-      "name": "DeathClutch",
+      "name": "Parzival",
       "role": "Administrator",
       "avatar": "/images/team/gtsdeathclutch.png",
       "discord": "gtsdeathclutch",
@@ -344,7 +344,7 @@
     },
     {
       "id": "beth",
-      "name": "Beth",
+      "name": "Peaches",
       "role": "Administrator",
       "avatar": "/images/team/beth.png",
       "discord": "authenticbeth",
