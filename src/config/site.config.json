@@ -101,56 +101,56 @@
     "images": [
       { 
         "id": 1, 
-        "src": "/images/gallery/1.jpg", 
+        "src": "/images/gallery/1.png", 
         "alt": "City skyline at night", 
         "title": "Downtown Los Santos",
         "category": "locations"
       },
       { 
         "id": 2, 
-        "src": "/images/gallery/2.jpg", 
+        "src": "/images/gallery/2.png", 
         "alt": "Police chase scene", 
         "title": "High Speed Chase",
         "category": "action"
       },
       { 
         "id": 3, 
-        "src": "/images/gallery/3.jpg", 
+        "src": "/images/gallery/3.png", 
         "alt": "Car meet event", 
         "title": "Weekly Car Meet",
         "category": "events"
       },
       { 
         "id": 4, 
-        "src": "/images/gallery/4.jpg", 
+        "src": "/images/gallery/4.png", 
         "alt": "Racing event", 
         "title": "Street Racing",
         "category": "events"
       },
       { 
         "id": 5, 
-        "src": "/images/gallery/5.jpg", 
+        "src": "/images/gallery/5.png", 
         "alt": "Roleplay scenario", 
         "title": "Bank Heist RP",
         "category": "roleplay"
       },
       { 
         "id": 6, 
-        "src": "/images/gallery/6.jpg", 
+        "src": "/images/gallery/6.png", 
         "alt": "Community gathering", 
         "title": "Community Event",
         "category": "events"
       },
       { 
         "id": 7, 
-        "src": "/images/gallery/7.jpg", 
+        "src": "/images/gallery/7.png", 
         "alt": "Custom vehicles", 
         "title": "Custom Rides",
         "category": "vehicles"
       },
       { 
         "id": 8, 
-        "src": "/images/gallery/8.jpg", 
+        "src": "/images/gallery/8.png", 
         "alt": "Server event", 
         "title": "Special Event",
         "category": "events"
