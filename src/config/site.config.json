@@ -316,6 +316,14 @@
       "description": "Head of Support, whitelisting, & marketing"
     },
     {
+      "id": "gtsdeathclutch",
+      "name": "DeathClutch",
+      "role": "Administrator",
+      "avatar": "/images/team/gtsdeathclutch.png",
+      "discord": "gtsdeathclutch",
+      "description": "Administrator"
+    },
+    {
       "id": "beth",
       "name": "Beth",
       "role": "Administrator",
