@@ -41,8 +41,8 @@
   },
   "server": {
     "name": "VitalRP",
-    "tagline": "Where Stories Come Alive",
-    "description": "Experience the most immersive GTA V roleplay server with custom features, active community, and endless possibilities.",
+    "tagline": "Where every choice fuels the city.",
+    "description": "A serious GTA 5 FiveM roleplay server with custom jobs, an advanced criminal turf system, and a balanced economy. Build your character, run legal or illegal businesses, and shape the city through immersive, story-driven RP.",
     "ip": "https://cfx.re/join/ogpvmv",
     "port": "30120",
     "discord": "https://discord.gg/vitalrp",
@@ -325,6 +325,14 @@
       "avatar": "/images/team/damon.png",
       "discord": "mcspace",
       "description": "Head of Support, whitelisting, & marketing"
+    },
+    {
+      "id": "rue",
+      "name": "Rue",
+      "role": "Administrator",
+      "avatar": "/images/team/rue.png",
+      "discord": "ruekatu",
+      "description": "Head of rules"
     },
     {
       "id": "gtsdeathclutch",
