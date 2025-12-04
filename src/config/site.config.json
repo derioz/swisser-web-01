@@ -260,8 +260,8 @@
         "id": "uwu",
         "name": "UwU Cat Cafe",
         "category": "business",
-        "description": "A cozy cutsie kitty corner",
-        "requirements": ["Like cats, not cat allergies", "Be a Pawsitive person"],
+        "description": "A cozy cutesie kitty corner",
+        "requirements": ["Like cats, no cat allergies", "Be a Pawsitive person"],
         "image": "/images/jobs/lawyer.jpg"
       },
       {
