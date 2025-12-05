@@ -102,57 +102,57 @@
       { 
         "id": 1, 
         "src": "/images/gallery/1.png", 
-        "alt": "City skyline at night", 
-        "title": "Downtown Los Santos",
-        "category": "locations"
+        "alt": "Damon", 
+        "title": "Damon and his car",
+        "category": "photography"
       },
       { 
         "id": 2, 
         "src": "/images/gallery/2.png", 
-        "alt": "Police chase scene", 
-        "title": "High Speed Chase",
-        "category": "action"
+        "alt": "Granny", 
+        "title": "Granny and her car",
+        "category": "photography"
       },
       { 
         "id": 3, 
         "src": "/images/gallery/3.png", 
-        "alt": "Car meet event", 
-        "title": "Weekly Car Meet",
+        "alt": "DJ and Skittlez", 
+        "title": "Server Event",
         "category": "events"
       },
       { 
         "id": 4, 
         "src": "/images/gallery/4.png", 
-        "alt": "Racing event", 
-        "title": "Street Racing",
+        "alt": "Damon dancing at an event", 
+        "title": "Wedding event",
         "category": "events"
       },
       { 
         "id": 5, 
         "src": "/images/gallery/5.png", 
-        "alt": "Roleplay scenario", 
-        "title": "Bank Heist RP",
-        "category": "roleplay"
+        "alt": "Sonny and Granny wedding", 
+        "title": "Wedding Event",
+        "category": "events"
       },
       { 
         "id": 6, 
         "src": "/images/gallery/6.png", 
-        "alt": "Community gathering", 
-        "title": "Community Event",
+        "alt": "Damon and Sunny", 
+        "title": "Afterparty event",
         "category": "events"
       },
       { 
         "id": 7, 
         "src": "/images/gallery/7.png", 
-        "alt": "Custom vehicles", 
-        "title": "Custom Rides",
-        "category": "vehicles"
+        "alt": "Ivy", 
+        "title": "Ivy psing",
+        "category": "photography"
       },
       { 
         "id": 8, 
         "src": "/images/gallery/8.png", 
         "alt": "Server event", 
-        "title": "Special Event",
+        "title": "Special event",
         "category": "events"
       }
     ]
